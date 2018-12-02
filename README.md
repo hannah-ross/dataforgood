@@ -1,13 +1,12 @@
 # dataforgood
-This is a group data analysis and visualizatoin project for Statistics 131 at UCLA.
+This is a group data analysis and visualization project for Statistics 131 at UCLA.
 
 ### data
 a folder with the two kickstarter csv's
 
 ### background_info
 a folder to document background information, common knowledge, and discussion of variables
-- discussion of each of the variables included in the dataset, and what the observational
-unit is
+- discussion of each of the variables included in the dataset, and what the observationalunit is
 - discussion of how the data is collected
 - “Common knowledge” shared among relevant parties involved
 - a review of other related research or studies that have been done
