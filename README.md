@@ -12,7 +12,7 @@ unit is
 - “Common knowledge” shared among relevant parties involved
 - a review of other related research or studies that have been done
 
-### exploratory analysis
+### exploratory_analysis
 a folder for code exploring the data 
 - any data cleaning and new derived features
 - summary statistics
@@ -20,7 +20,7 @@ a folder for code exploring the data
 - interesting relationships
 - readable tables, graphs, and explanatory commentary
 
-### data modeling
+### modeling
 a folder for code fitting a statistical model to data for prediction
 - explain decisions regarding the choice of model, and the reasoning behind the inclusion of predictive features. (Probably backed up by the findings in the exploratory data analysis.)
 - seperate training and testing data to fit a model for predictive purposes
