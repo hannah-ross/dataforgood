@@ -14,8 +14,7 @@ a folder to document background information, common knowledge, and discussion of
 - a review of other related research or studies that have been done
 
 ### exploratory_analysis
-• view in http://nbviewer.jupyter.org/
-a folder for code exploring the data 
+a folder for code exploring the data  (view in http://nbviewer.jupyter.org/ )
 - any data cleaning and new derived features
 - summary statistics
 - outliers
