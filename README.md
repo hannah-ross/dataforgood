@@ -1,7 +1,7 @@
 # dataforgood
 This is a group data analysis and visualization project for Statistics 131 at UCLA.
 
-To view the plots created for the exploratory analysis notebooks,copy and paste the notebook's github link into http://nbviewer.jupyter.org/
+To view the plots created for the exploratory analysis notebooks, copy and paste the notebook's github link into http://nbviewer.jupyter.org/
 
 ### data
 a folder with the two kickstarter csv's
@@ -14,6 +14,7 @@ a folder to document background information, common knowledge, and discussion of
 - a review of other related research or studies that have been done
 
 ### exploratory_analysis
+• view in http://nbviewer.jupyter.org/
 a folder for code exploring the data 
 - any data cleaning and new derived features
 - summary statistics
