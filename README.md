@@ -8,7 +8,7 @@ a folder with the two kickstarter csv's
 
 ### background_info
 a folder to document background information, common knowledge, and discussion of variables
-- discussion of each of the variables included in the dataset, and what the observationalunit is
+- discussion of each of the variables included in the dataset, and what the observational unit is
 - discussion of how the data is collected
 - “Common knowledge” shared among relevant parties involved
 - a review of other related research or studies that have been done
