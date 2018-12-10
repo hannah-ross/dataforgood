@@ -1,6 +1,8 @@
 # dataforgood
 This is a group data analysis and visualization project for Statistics 131 at UCLA.
 
+Our project presentation video can be viewed on youtube here: https://www.youtube.com/watch?v=gSZCPRbuOD8&feature=youtu.be
+
 To view the plots created for the exploratory analysis notebooks, copy and paste the notebook's github link into http://nbviewer.jupyter.org/
 
 ### data
