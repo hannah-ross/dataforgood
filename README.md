@@ -3,7 +3,7 @@ This is Team Campus Cults' final project for Statistics 131 at UCLA.
 
 Our **final report** is in the jupyter notebook  **"Final Report.ipynb"**
 
-A **supplemental** exploratory analysis notebook **Plotly_SUpplemental_Exploratory_Analysis.ipynb** is to be viewed by inserting the github notebook link into http://nbviewer.jupyter.org/
+A **supplemental** exploratory analysis notebook **Plotly_Supplemental_Exploratory_Analysis.ipynb** is to be viewed by inserting its URL (https://github.com/hannah-ross/dataforgood/blob/master/Plotly_Supplemental_Exploratory_Analysis.ipynb) into http://nbviewer.jupyter.org/
 
 Our **project presentation video** can be viewed on youtube here: **https://www.youtube.com/watch?v=gSZCPRbuOD8&feature=youtu.be**
 
