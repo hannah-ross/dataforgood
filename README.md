@@ -1,12 +1,15 @@
-# dataforgood
-This is a group data analysis and visualization project for Statistics 131 at UCLA.
+# dataforgood by Team Campus Cults
+This is a group data analysis project of Kickstarter data for Statistics 131 at UCLA.
+
+Our final report is in the jupyter notebook titled "Final Report.ipynb"
+A supplemental exploratory analysis notebook can be viewed by inserting the github notebook link into http://nbviewer.jupyter.org/
 
 Our project presentation video can be viewed on youtube here: https://www.youtube.com/watch?v=gSZCPRbuOD8&feature=youtu.be
 
-To view the plots created for the exploratory analysis notebooks, copy and paste the notebook's github link into http://nbviewer.jupyter.org/
+Our presentation slides themselves can be viewed in "PresentationSlides.pdf"
 
 ### data
-a folder with the two kickstarter csv's
+a folder containing the Kickstarter data set
 
 ### background_info
 a folder to document background information, common knowledge, and discussion of variables
