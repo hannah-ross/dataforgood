@@ -3,7 +3,7 @@ This is Team Campus Cults' final project analysis of Kickstarter data for Statis
 
 Our **final report** is in the jupyter notebook  **"Final Report.ipynb"**
 
-A **supplemental** exploratory analysis notebook **"Plotly_Supplemental_Exploratory_Analysis.ipynb"** is to be viewed by inserting its URL (https://github.com/hannah-ross/dataforgood/blob/master/Plotly_Supplemental_Exploratory_Analysis.ipynb) into http://nbviewer.jupyter.org/
+A **supplemental** exploratory analysis notebook **"Plotly_Supplemental_Exploratory_Analysis.ipynb"** can be viewed here: **http://nbviewer.jupyter.org/github/hannah-ross/dataforgood/blob/master/Plotly_Supplemental_Exploratory_Analysis.ipynb ** by inserting its URL (https://github.com/hannah-ross/dataforgood/blob/master/Plotly_Supplemental_Exploratory_Analysis.ipynb) into http://nbviewer.jupyter.org/
 
 Our **project presentation video** can be viewed on youtube here: **https://www.youtube.com/watch?v=gSZCPRbuOD8&feature=youtu.be**
 
